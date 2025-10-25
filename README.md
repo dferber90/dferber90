@@ -1,1 +1,3 @@
-building [happykit.dev](https://happykit.dev/)
+- [vercel](https://vercel.com/) tech lead (creator of [edge config](https://vercel.com/edge-config), [flags explorer](https://vercel.com/docs/feature-flags/flags-explorer) & [flags-sdk.com](https://www.flags-sdk.com))
+- [happykit.dev](https://happykit.dev/) founder
+- padel player and fliteboard enthusiast
